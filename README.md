@@ -1,1 +1,2 @@
-# K-Means-clustering
+# Customers KMeans Clustering
+Customers of Shopping Mall
